@@ -10,8 +10,8 @@ This work is driven by the JWST Data Analysis Development Forum at the
 This repository is basically testing and work in progress. 
 
 To aid in tracking down problems if someone else tries to run the
-notebook, please put some comments about version numbers at the bottom of 
-the notebook. For example:
+notebook, please put some comments about version numbers at the top of 
+your notebook. For example:
 
 ```
 # Version info
