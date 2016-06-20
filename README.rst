@@ -13,14 +13,14 @@ To aid in tracking down problems if someone else tries to run the
 notebook, please put some comments about version numbers at the bottom of 
 the notebook. For example:
 
-```
-# Version info
-import sys
-import astropy
-import scipy
-print "Versions:"
-print "python: ",sys.version_info
-print "astropy: ",astropy.__version__
-print "scipy: ",scipy.__version__
-```
+.. code:: python
+
+    # Version info
+    import sys
+    import astropy
+    import scipy
+    print "Versions:"
+    print "python: ",sys.version_info
+    print "astropy: ",astropy.__version__
+    print "scipy: ",scipy.__version__
 
